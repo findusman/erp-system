@@ -1,0 +1,27 @@
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\x86\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\x86\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.GEN_GEN.Look.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\x86\Debug\GEN.pdb
+C:\Source Code\GEN\bin\x86\Debug\GEN.dll
+C:\Source Code\GEN\bin\x86\Debug\GEN.pdb
+C:\Source Code\GEN\obj\x86\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Source Code\GEN\obj\x86\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Source Code\GEN\obj\x86\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Source Code\GEN\obj\x86\Debug\GEN.csproj.GenerateResource.Cache
+C:\Source Code\GEN\obj\x86\Debug\GEN.dll.licenses
+C:\Source Code\GEN\obj\x86\Debug\GEN.dll
+C:\Source Code\GEN\obj\x86\Debug\GEN.pdb
+C:\Development\C#\ERP\DM\DM\GEN\bin\x86\Debug\GEN.dll
+C:\Development\C#\ERP\DM\DM\GEN\bin\x86\Debug\GEN.pdb
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.csproj.GenerateResource.Cache
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.dll.licenses
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.dll
+C:\Development\C#\ERP\DM\DM\GEN\obj\x86\Debug\GEN.pdb

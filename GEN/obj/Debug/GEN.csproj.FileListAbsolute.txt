@@ -1,0 +1,709 @@
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+G:\Continue Projects\C#\Windows\ERP\15 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Iftikhar\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Latest ERP\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.Export_data.resources
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.frlLOOKUP.resources
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.XtraForm1.resources
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.read.1.tlog
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\ResGen.write.1.tlog
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Asim\ERP\Aater 9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\Continue Projects\C#\Windows\Running\ERP\12 - from Aater 6 Jan 2015\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+F:\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+F:\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+F:\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\bin\Debug\GEN.dll
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\bin\Debug\GEN.pdb
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll.licenses
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.dll
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\GEN\obj\Debug\GEN.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\bin\Debug\GEN.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\bin\Debug\GEN.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.dll.licenses
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\GEN\obj\Debug\GEN.pdb
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\bin\Debug\GEN.dll
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\bin\Debug\GEN.pdb
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.dll.licenses
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.dll
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\GEN\obj\Debug\GEN.pdb
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\bin\Debug\GEN.dll
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\bin\Debug\GEN.pdb
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.dll.licenses
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.dll
+C:\Users\UsmanRaza\Downloads\Compressed\Testing Project 8-31-2015\Testing Project\Source Code\GEN\obj\Debug\GEN.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\bin\Debug\GEN.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\bin\Debug\GEN.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.dll.licenses
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\GEN\obj\Debug\GEN.pdb
+C:\Source Code\GEN\bin\Debug\GEN.dll
+C:\Source Code\GEN\bin\Debug\GEN.pdb
+C:\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Source Code\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Source Code\GEN\obj\Debug\GEN.dll.licenses
+C:\Source Code\GEN\obj\Debug\GEN.dll
+C:\Source Code\GEN\obj\Debug\GEN.pdb
+C:\Source Code\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.dll.licenses
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.dll
+D:\NewdataFrom10July\C\Source Code\GEN\obj\Debug\GEN.pdb
+D:\NewdataFrom10July\C\Source Code\GEN\bin\Debug\GEN.dll
+D:\NewdataFrom10July\C\Source Code\GEN\bin\Debug\GEN.pdb
+C:\Development\C#\ERP\DM\DM\GEN\bin\Debug\GEN.dll
+C:\Development\C#\ERP\DM\DM\GEN\bin\Debug\GEN.pdb
+C:\Development\C#\ERP\DM\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+C:\Development\C#\ERP\DM\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+C:\Development\C#\ERP\DM\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+C:\Development\C#\ERP\DM\DM\GEN\obj\Debug\GEN.dll.licenses
+C:\Development\C#\ERP\DM\DM\GEN\obj\Debug\GEN.dll
+C:\Development\C#\ERP\DM\DM\GEN\obj\Debug\GEN.pdb
+D:\Development\C#\DM\DM\GEN\bin\Debug\GEN.dll
+D:\Development\C#\DM\DM\GEN\bin\Debug\GEN.pdb
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.dll.licenses
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.dll
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.pdb
+E:\Development\C#\DM\DM\GEN\bin\Debug\GEN.dll
+E:\Development\C#\DM\DM\GEN\bin\Debug\GEN.pdb
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.dll.licenses
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.dll
+E:\Development\C#\DM\DM\GEN\obj\Debug\GEN.pdb
+D:\Development\C#\DM\DM\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\bin\Debug\GEN.dll
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\bin\Debug\GEN.pdb
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.Cache
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.dll.licenses
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.dll
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\GEN\obj\Debug\GEN.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.dll
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.cache
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll.licenses
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csprojResolveAssemblyReference.cache
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.dll
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.pdb
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.cache
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll.licenses
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.CoreCompileInputs.cache
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.pdb
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.dll
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.pdb
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csprojAssemblyReference.cache
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.cache
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll.licenses
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.CoreCompileInputs.cache
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.pdb
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\GEN.pdb
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Data.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.Extensions.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.CodeParser.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Data.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Office.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\de\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\es\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.AssemblyReference.cache
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.cache
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll.licenses
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.CoreCompileInputs.cache
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.csproj.CopyComplete
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\GEN\obj\Debug\GEN.pdb
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\GEN.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\GEN.pdb
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Data.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.Extensions.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.CodeParser.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Data.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraReports.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\de\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\es\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.csproj.AssemblyReference.cache
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.Export_data.resources
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.GEN_GEN.Look.frlLOOKUP.resources
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.csproj.GenerateResource.cache
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.dll.licenses
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.csproj.CoreCompileInputs.cache
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.csproj.CopyComplete
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\GEN\obj\Debug\GEN.pdb

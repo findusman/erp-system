@@ -1,0 +1,1161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD12A221-467D-4223-944F-0E7D18258D73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PRESENTATION_LAYER</RootNamespace>
+    <AssemblyName>PRESENTATION_LAYER</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>C:\Users\Aashu\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>BF867A539856422870FFC656788A9A11A4936229</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>PRESENTATION_LAYER_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1.Extensions, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v13.1.Reporting.Extensions, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v13.1.Reporting, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACC_PRESENTATION_LAYER\cls_bindGridLookUpEdit.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\cls_ShowFormEntities.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\COA\cls_COA_P.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\COA\frm_COA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\COA\frm_COA.Designer.cs">
+      <DependentUpon>frm_COA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\ConstructorClasses\ConstructorClass.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\cls_bindGridLookColumns.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\cls_ShowReportEntities.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\DataSets\ACC_COA1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACC_COA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\DataSets\ACC_TrialBalance1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACC_TrialBalance.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\DataSets\DataSetReports.cs">
+      <DependentUpon>DataSetReports.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\DataSets\DataSetReports.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetReports.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\DataSets\sp_rpt_Ledger.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sp_rpt_Ledger.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_OPENING_BALANCE\frm_TBL_OPENING_BALANCE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_OPENING_BALANCE\frm_TBL_OPENING_BALANCE.Designer.cs">
+      <DependentUpon>frm_TBL_OPENING_BALANCE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_OPENING_BALANCE\TBL_OPENING_BALANCE_P.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_VCH_MAIN\frm_TBL_VCH_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_VCH_MAIN\frm_TBL_VCH_MAIN.Designer.cs">
+      <DependentUpon>frm_TBL_VCH_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_VCH_MAIN\TBL_VCH_MAIN_P.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\DataSet_BalanceSheet.Designer.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\frm_balanceSheet_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\frm_balanceSheet_Report.Designer.cs">
+      <DependentUpon>frm_balanceSheet_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\DataSet_profitOrLoss.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_profitOrLoss.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\frm_profitOrLoss_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\frm_profitOrLoss_Report.Designer.cs">
+      <DependentUpon>frm_profitOrLoss_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\Ledger\frm_rpt_Ledger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\Ledger\frm_rpt_Ledger.Designer.cs">
+      <DependentUpon>frm_rpt_Ledger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\DataSets_TrialBalance\MultiLevelTrialBalance\ds_TrialBalanceMultiLevel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds_TrialBalanceMultiLevel.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\frm_rpt_TrialBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\frm_rpt_TrialBalance.designer.cs">
+      <DependentUpon>frm_rpt_TrialBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DM_CurrentDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DM_CurrentDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\BackUp\frmBACKUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\BackUp\frmBACKUP.designer.cs">
+      <DependentUpon>frmBACKUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\frm_products_without margin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\frm_products_without margin.Designer.cs">
+      <DependentUpon>frm_products_without margin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_BRC\cls_TBL_BRC_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_BRC\frm_TBL_BRC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_BRC\frm_TBL_BRC.designer.cs">
+      <DependentUpon>frm_TBL_BRC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_CMP\cls_TBL_CMP_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_CMP\frm_TBL_CMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_CMP\frm_TBL_CMP.designer.cs">
+      <DependentUpon>frm_TBL_CMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEY\cls_LoadKeys.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_MAIN\cls_TBL_RIGHTS_MAIN_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_MAIN\frm_TBL_RIGHTS_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_MAIN\frm_TBL_RIGHTS_MAIN.designer.cs">
+      <DependentUpon>frm_TBL_RIGHTS_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_TEMPLATE\cls_TBL_RIGHTS_TEMPLATE_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_TEMPLATE\frm_TBL_RIGHTS_TEMPLATE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_TEMPLATE\frm_TBL_RIGHTS_TEMPLATE.designer.cs">
+      <DependentUpon>frm_TBL_RIGHTS_TEMPLATE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_USERS\cls_TBL_USERS_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_USERS\frm_TBL_USERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_USERS\frm_TBL_USERS.designer.cs">
+      <DependentUpon>frm_TBL_USERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEY\cls_TBL_KEY_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEY\frm_TBL_KEY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEY\frm_TBL_KEY.designer.cs">
+      <DependentUpon>frm_TBL_KEY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_Department_FromDate_ToDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_Department_FromDate_ToDate.Designer.cs">
+      <DependentUpon>uc_Department_FromDate_ToDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_FromDate_ToDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_FromDate_ToDate.Designer.cs">
+      <DependentUpon>uc_FromDate_ToDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_Department_Product_FromDate_ToDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_Department_Product_FromDate_ToDate.Designer.cs">
+      <DependentUpon>uc_Department_Product_FromDate_ToDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\UC_TBL_PRODUCTS_gridLookUpForProdcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\UC_TBL_PRODUCTS_gridLookUpForProdcuts.Designer.cs">
+      <DependentUpon>UC_TBL_PRODUCTS_gridLookUpForProdcuts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\uc_TBL_COA_fromCodeToCode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\uc_TBL_COA_fromCodeToCode.Designer.cs">
+      <DependentUpon>uc_TBL_COA_fromCodeToCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\cls_bindGridLookColumns.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\cls_ShowFormEntities.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\cls_ShowListingEntities.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\cls_ShowReportEntities.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\rpt_barCodeWriting_Parent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\rpt_barCodeWriting_Parent.designer.cs">
+      <DependentUpon>rpt_barCodeWriting_Parent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\DataSet_barCodeWriting.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_barCodeWriting.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\rpt_barCodeWriting_Child.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\rpt_barCodeWriting_Child.designer.cs">
+      <DependentUpon>rpt_barCodeWriting_Child.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SALES_AND_RETURN_MAIN\frm_TBL_SALES_AND_RETURN_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SALES_AND_RETURN_MAIN\frm_TBL_SALES_AND_RETURN_MAIN.Designer.cs">
+      <DependentUpon>frm_TBL_SALES_AND_RETURN_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SALES_AND_RETURN_MAIN\TBL_SALES_AND_RETURN_MAIN_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PURCHASE_AND_RETURN_MAIN\frm_TBL_PURCHASE_AND_RETURN_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PURCHASE_AND_RETURN_MAIN\frm_TBL_PURCHASE_AND_RETURN_MAIN.Designer.cs">
+      <DependentUpon>frm_TBL_PURCHASE_AND_RETURN_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PURCHASE_AND_RETURN_MAIN\TBL_PURCHASE_AND_RETURN_MAIN_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBl_STOCKS\localDataSet\ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS\frm_TBL_SUPPLIERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS\frm_TBL_SUPPLIERS.Designer.cs">
+      <DependentUpon>frm_TBL_SUPPLIERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS\TBL_SUPPLIERS_P.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\GColumns\cls_CT.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\GColumns\cls_CTBL_ACC_PLAN.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\GColumns\cls_CTBL_ACC_PLAN_DEF.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\GColumns\cls_CTBL_COA.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\GColumns\cls_CTBL_TYPE_PLAN_DEF.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\GColumns\cls_CTBL_TYPE_PLAN_MAIN.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\InitiateGrid\cls_InitiateGrids.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\COA\rpt_COA.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Reports\COA\rpt_COA.designer.cs">
+      <DependentUpon>rpt_COA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\cls_bindGridLookUpEdit.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEYS_TYPES\cls_TBL_KEYS_TYPES_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEYS_TYPES\frm_TBL_KEYS_TYPES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEYS_TYPES\frm_TBL_KEYS_TYPES.designer.cs">
+      <DependentUpon>frm_TBL_KEYS_TYPES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\cls_bindGridLookUpEdit.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_CUSTOMERS\frm_TBL_CUSTOMERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_CUSTOMERS\frm_TBL_CUSTOMERS.Designer.cs">
+      <DependentUpon>frm_TBL_CUSTOMERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_CUSTOMERS\TBL_CUSTOMERS_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_DEPARTMENTS\frm_TBL_DEPARTMENTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_DEPARTMENTS\frm_TBL_DEPARTMENTS.Designer.cs">
+      <DependentUpon>frm_TBL_DEPARTMENTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_DEPARTMENTS\TBL_DEPARTMENTS_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PACKINGS_MAIN\frm_TBL_PACKINGS_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PACKINGS_MAIN\frm_TBL_PACKINGS_MAIN.Designer.cs">
+      <DependentUpon>frm_TBL_PACKINGS_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PACKINGS_MAIN\TBL_PACKINGS_MAIN_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\frm_TBL_PRODUCTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\frm_TBL_PRODUCTS.Designer.cs">
+      <DependentUpon>frm_TBL_PRODUCTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\TBL_PRODUCTS_P.cs" />
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_FINANCIAL_YEAR\frm_TBL_FINANCIAL_YEAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_FINANCIAL_YEAR\frm_TBL_FINANCIAL_YEAR.Designer.cs">
+      <DependentUpon>frm_TBL_FINANCIAL_YEAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACC_PRESENTATION_LAYER\Forms\TBL_FINANCIAL_YEAR\TBL_FINANCIAL_YEAR_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS_TMP\frm_TBL_SUPPLIERS_TMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS_TMP\frm_TBL_SUPPLIERS_TMP.Designer.cs">
+      <DependentUpon>frm_TBL_SUPPLIERS_TMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS_TMP\TBL_SUPPLIERS_TMP_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_TEMP_MAIN\frm_TBL_TEMP_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_TEMP_MAIN\frm_TBL_TEMP_MAIN.Designer.cs">
+      <DependentUpon>frm_TBL_TEMP_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_TEMP_MAIN\TBL_TEMP_MAIN_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_UNITS\frm_TBL_UNITS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_UNITS\frm_TBL_UNITS.Designer.cs">
+      <DependentUpon>frm_TBL_UNITS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_UNITS\TBL_UNITS_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_VEHICLE_MAKERS\frm_TBL_VEHICLE_MAKERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_VEHICLE_MAKERS\frm_TBL_VEHICLE_MAKERS.Designer.cs">
+      <DependentUpon>frm_TBL_VEHICLE_MAKERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Forms\TBL_VEHICLE_MAKERS\TBL_VEHICLE_MAKERS_P.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\DataSet_AccountsSummary_ByParentAccount.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_AccountsSummary_ByParentAccount.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\frm_AccountSummary_ByParentAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\frm_AccountSummary_ByParentAccount.Designer.cs">
+      <DependentUpon>frm_AccountSummary_ByParentAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\frm_sales_summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\frm_sales_summary.Designer.cs">
+      <DependentUpon>frm_sales_summary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\DataSet_AuditTrial.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_AuditTrial.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\frm_AuditTrial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\frm_AuditTrial.Designer.cs">
+      <DependentUpon>frm_AuditTrial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\frm_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\frm_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.Designer.cs">
+      <DependentUpon>frm_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\DataSet_Item_Stock_Summary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Item_Stock_Summary.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\frm_Item_Stock_Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\frm_Item_Stock_Summary.designer.cs">
+      <DependentUpon>frm_Item_Stock_Summary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\DataSet_Item_Transaction.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Item_Transaction.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\frm_Item_Sales_Purchase_Ledger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\frm_Item_Sales_Purchase_Ledger.Designer.cs">
+      <DependentUpon>frm_Item_Sales_Purchase_Ledger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\frm_Item_Transaction_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\frm_Item_Transaction_Report.Designer.cs">
+      <DependentUpon>frm_Item_Transaction_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\DataSet_Sales.cs">
+      <DependentUpon>DataSet_Sales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\DataSet_Sales.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Sales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\SalesMargin\frm_SalesMargin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\SalesMargin\frm_SalesMargin.Designer.cs">
+      <DependentUpon>frm_SalesMargin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Message\frmMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Message\frmMessages.Designer.cs">
+      <DependentUpon>frmMessages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Message\Message.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet1_VCH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1_VCH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet_SaleInvoice_DM.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_SaleInvoice_DM.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\Class1.cs" />
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_barCodePrint.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_barCodePrint.Designer.cs">
+      <DependentUpon>rpt_barCodePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_VCH_INVOICE .cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_VCH_INVOICE .designer.cs">
+      <DependentUpon>rpt_VCH_INVOICE .cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_DETAIL_SALE_INVOICE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_DETAIL_SALE_INVOICE.designer.cs">
+      <DependentUpon>rpt_DETAIL_SALE_INVOICE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_DETAIL_SALE_INVOICE_SMALL.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_DETAIL_SALE_INVOICE_SMALL.designer.cs">
+      <DependentUpon>rpt_DETAIL_SALE_INVOICE_SMALL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\XtraSchedulerReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\XtraSchedulerReport1.Designer.cs">
+      <DependentUpon>XtraSchedulerReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\cls_ShowFormEntities.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\cls_ShowListingEntities.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\cls_ShowReportEntities.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\cls_StaticObjects.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\InitiateGrid\cls_InitiateGrids.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\TBL_DEFAULT_ACCT\cls_CTBL_DEFAULT_ACCT.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\TBL_DEFAULT_ACCT\frm_TBL_DEFAULT_ACCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\TBL_DEFAULT_ACCT\frm_TBL_DEFAULT_ACCT.Designer.cs">
+      <DependentUpon>frm_TBL_DEFAULT_ACCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\TBL_DEFAULT_ACCT\frm_TBL_DEFAULT_ACCT_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\DEF_FORM\frm_TBL_IMG\cls_CTBL_IMG.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\DEF_FORM\frm_TBL_IMG\frm_TBL_IMG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\DEF_FORM\frm_TBL_IMG\frm_TBL_IMG.designer.cs">
+      <DependentUpon>frm_TBL_IMG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\DEF_FORM\frm_TBL_IMG\frm_TBL_IMG_P.cs" />
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\Top Status Bar For Lists\uc_NAVBARCONTROl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\Top Status Bar For Lists\uc_NAVBARCONTROl.designer.cs">
+      <DependentUpon>uc_NAVBARCONTROl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\Top Status Bar For Lists\uc_TOP_STATUS_BAR.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\User Controls\Top Status Bar For Lists\uc_TOP_STATUS_BAR.Designer.cs">
+      <DependentUpon>uc_TOP_STATUS_BAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Users_Login\frm_ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Users_Login\frm_ChangePassword.designer.cs">
+      <DependentUpon>frm_ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Users_Login\frm_LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GEN_PRESENTATION_LAYER\Users_Login\frm_LOGIN.designer.cs">
+      <DependentUpon>frm_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_PRESENTATION_LAYER\Generics\cls_Functions.cs" />
+    <Compile Include="InitiateProject\cls_initializeImage.cs" />
+    <Compile Include="InitiateProject\cls_InitilizeProject.cs" />
+    <Compile Include="MDIClassic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIClassic.designer.cs">
+      <DependentUpon>MDIClassic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RibbonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RibbonForm1.Designer.cs">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="TMPFOrms\XtraForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TMPFOrms\XtraForm1.Designer.cs">
+      <DependentUpon>XtraForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm1.Designer.cs">
+      <DependentUpon>XtraForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm2.Designer.cs">
+      <DependentUpon>XtraForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm3.Designer.cs">
+      <DependentUpon>XtraForm3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm4.Designer.cs">
+      <DependentUpon>XtraForm4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm5.Designer.cs">
+      <DependentUpon>XtraForm5.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\COA\frm_COA.resx">
+      <DependentUpon>frm_COA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Forms\TBL_OPENING_BALANCE\frm_TBL_OPENING_BALANCE.resx">
+      <DependentUpon>frm_TBL_OPENING_BALANCE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Forms\TBL_VCH_MAIN\frm_TBL_VCH_MAIN.resx">
+      <DependentUpon>frm_TBL_VCH_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\frm_balanceSheet_Report.resx">
+      <DependentUpon>frm_balanceSheet_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\frm_profitOrLoss_Report.resx">
+      <DependentUpon>frm_profitOrLoss_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Reports\Ledger\frm_rpt_Ledger.resx">
+      <DependentUpon>frm_rpt_Ledger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\frm_rpt_TrialBalance.resx">
+      <DependentUpon>frm_rpt_TrialBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\BackUp\frmBACKUP.resx">
+      <DependentUpon>frmBACKUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\frm_products_without margin.resx">
+      <DependentUpon>frm_products_without margin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_BRC\frm_TBL_BRC.resx">
+      <DependentUpon>frm_TBL_BRC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_CMP\frm_TBL_CMP.resx">
+      <DependentUpon>frm_TBL_CMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_MAIN\frm_TBL_RIGHTS_MAIN.resx">
+      <DependentUpon>frm_TBL_RIGHTS_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_RIGHTS_TEMPLATE\frm_TBL_RIGHTS_TEMPLATE.resx">
+      <DependentUpon>frm_TBL_RIGHTS_TEMPLATE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_USERS\frm_TBL_USERS.resx">
+      <DependentUpon>frm_TBL_USERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEY\frm_TBL_KEY.resx">
+      <DependentUpon>frm_TBL_KEY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_Department_FromDate_ToDate.resx">
+      <DependentUpon>uc_Department_FromDate_ToDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_FromDate_ToDate.resx">
+      <DependentUpon>uc_FromDate_ToDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\uc_Department_Product_FromDate_ToDate.resx">
+      <DependentUpon>uc_Department_Product_FromDate_ToDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\TBL_PRODUCTS\UC_TBL_PRODUCTS_gridLookUpForProdcuts.resx">
+      <DependentUpon>UC_TBL_PRODUCTS_gridLookUpForProdcuts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\uc_TBL_COA_fromCodeToCode.resx">
+      <DependentUpon>uc_TBL_COA_fromCodeToCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\rpt_barCodeWriting_Child.resx">
+      <DependentUpon>rpt_barCodeWriting_Child.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\rpt_barCodeWriting_Parent.resx">
+      <DependentUpon>rpt_barCodeWriting_Parent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_SALES_AND_RETURN_MAIN\frm_TBL_SALES_AND_RETURN_MAIN.resx">
+      <DependentUpon>frm_TBL_SALES_AND_RETURN_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_PURCHASE_AND_RETURN_MAIN\frm_TBL_PURCHASE_AND_RETURN_MAIN.resx">
+      <DependentUpon>frm_TBL_PURCHASE_AND_RETURN_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS\frm_TBL_SUPPLIERS.resx">
+      <DependentUpon>frm_TBL_SUPPLIERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Reports\COA\rpt_COA.resx">
+      <DependentUpon>rpt_COA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Forms\TBL_KEYS_TYPES\frm_TBL_KEYS_TYPES.resx">
+      <DependentUpon>frm_TBL_KEYS_TYPES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_CUSTOMERS\frm_TBL_CUSTOMERS.resx">
+      <DependentUpon>frm_TBL_CUSTOMERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_DEPARTMENTS\frm_TBL_DEPARTMENTS.resx">
+      <DependentUpon>frm_TBL_DEPARTMENTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_PACKINGS_MAIN\frm_TBL_PACKINGS_MAIN.resx">
+      <DependentUpon>frm_TBL_PACKINGS_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\frm_TBL_PRODUCTS.resx">
+      <DependentUpon>frm_TBL_PRODUCTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACC_PRESENTATION_LAYER\Forms\TBL_FINANCIAL_YEAR\frm_TBL_FINANCIAL_YEAR.resx">
+      <DependentUpon>frm_TBL_FINANCIAL_YEAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_SUPPLIERS_TMP\frm_TBL_SUPPLIERS_TMP.resx">
+      <DependentUpon>frm_TBL_SUPPLIERS_TMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_TEMP_MAIN\frm_TBL_TEMP_MAIN.resx">
+      <DependentUpon>frm_TBL_TEMP_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_UNITS\frm_TBL_UNITS.resx">
+      <DependentUpon>frm_TBL_UNITS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Forms\TBL_VEHICLE_MAKERS\frm_TBL_VEHICLE_MAKERS.resx">
+      <DependentUpon>frm_TBL_VEHICLE_MAKERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\frm_AccountSummary_ByParentAccount.resx">
+      <DependentUpon>frm_AccountSummary_ByParentAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\frm_sales_summary.resx">
+      <DependentUpon>frm_sales_summary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\frm_AuditTrial.resx">
+      <DependentUpon>frm_AuditTrial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\frm_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.resx">
+      <DependentUpon>frm_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\frm_Item_Stock_Summary.resx">
+      <DependentUpon>frm_Item_Stock_Summary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\frm_Item_Sales_Purchase_Ledger.resx">
+      <DependentUpon>frm_Item_Sales_Purchase_Ledger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\frm_Item_Transaction_Report.resx">
+      <DependentUpon>frm_Item_Transaction_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\SalesMargin\frm_SalesMargin.resx">
+      <DependentUpon>frm_SalesMargin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Message\frmMessages.resx">
+      <DependentUpon>frmMessages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_barCodePrint.resx">
+      <DependentUpon>rpt_barCodePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_VCH_INVOICE .resx">
+      <DependentUpon>rpt_VCH_INVOICE .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_DETAIL_SALE_INVOICE.resx">
+      <DependentUpon>rpt_DETAIL_SALE_INVOICE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DM\rpt_DETAIL_SALE_INVOICE_SMALL.resx">
+      <DependentUpon>rpt_DETAIL_SALE_INVOICE_SMALL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\TBL_DEFAULT_ACCT\frm_TBL_DEFAULT_ACCT.resx">
+      <DependentUpon>frm_TBL_DEFAULT_ACCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\DEF_FORM\frm_TBL_IMG\frm_TBL_IMG.resx">
+      <DependentUpon>frm_TBL_IMG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\Top Status Bar For Lists\uc_NAVBARCONTROl.resx">
+      <DependentUpon>uc_NAVBARCONTROl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\User Controls\Top Status Bar For Lists\uc_TOP_STATUS_BAR.resx">
+      <DependentUpon>uc_TOP_STATUS_BAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Users_Login\frm_ChangePassword.resx">
+      <DependentUpon>frm_ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_PRESENTATION_LAYER\Users_Login\frm_LOGIN.resx">
+      <DependentUpon>frm_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIClassic.resx">
+      <DependentUpon>MDIClassic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RibbonForm1.resx">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TMPFOrms\XtraForm1.resx">
+      <DependentUpon>XtraForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm1.resx">
+      <DependentUpon>XtraForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm2.resx">
+      <DependentUpon>XtraForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm3.resx">
+      <DependentUpon>XtraForm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm4.resx">
+      <DependentUpon>XtraForm4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm5.resx">
+      <DependentUpon>XtraForm5.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\ACC_COA.xsc">
+      <DependentUpon>ACC_COA.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\ACC_COA.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACC_COA1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\ACC_COA.xss">
+      <DependentUpon>ACC_COA.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\ACC_TrialBalance.xsc">
+      <DependentUpon>ACC_TrialBalance.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\ACC_TrialBalance.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ACC_TrialBalance1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\ACC_TrialBalance.xss">
+      <DependentUpon>ACC_TrialBalance.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\DataSetReports.xsc">
+      <DependentUpon>DataSetReports.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\DataSetReports.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetReports.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\DataSetReports.xss">
+      <DependentUpon>DataSetReports.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\sp_rpt_Ledger.xsc">
+      <DependentUpon>sp_rpt_Ledger.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\sp_rpt_Ledger.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sp_rpt_Ledger.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\DataSets\sp_rpt_Ledger.xss">
+      <DependentUpon>sp_rpt_Ledger.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\DataSet_BalanceSheet.xsc">
+      <DependentUpon>DataSet_BalanceSheet.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\DataSet_BalanceSheet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_BalanceSheet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\DataSet_BalanceSheet.xss">
+      <DependentUpon>DataSet_BalanceSheet.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\DataSet_profitOrLoss.xsc">
+      <DependentUpon>DataSet_profitOrLoss.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\DataSet_profitOrLoss.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_profitOrLoss.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Lists\DM\TBL_VCH_Details\DataSet_profitOrLoss.xss">
+      <DependentUpon>DataSet_profitOrLoss.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\DataSets_TrialBalance\MultiLevelTrialBalance\ds_TrialBalanceMultiLevel.xsc">
+      <DependentUpon>ds_TrialBalanceMultiLevel.xsd</DependentUpon>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\DataSets_TrialBalance\MultiLevelTrialBalance\ds_TrialBalanceMultiLevel.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds_TrialBalanceMultiLevel.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ACC_PRESENTATION_LAYER\Reports\TrialBalance\DataSets_TrialBalance\MultiLevelTrialBalance\ds_TrialBalanceMultiLevel.xss">
+      <DependentUpon>ds_TrialBalanceMultiLevel.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="App1.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="DM_CurrentDataSet.xsc">
+      <DependentUpon>DM_CurrentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DM_CurrentDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DM_CurrentDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DM_CurrentDataSet.xss">
+      <DependentUpon>DM_CurrentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\DataSet_barCodeWriting.xsc">
+      <DependentUpon>DataSet_barCodeWriting.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\DataSet_barCodeWriting.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_barCodeWriting.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Forms\TBL_PRODUCTS\Reports\DataSet_barCodeWriting\DataSet_barCodeWriting.xss">
+      <DependentUpon>DataSet_barCodeWriting.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Forms\TBl_STOCKS\localDataSet\ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.xsc">
+      <DependentUpon>ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Forms\TBl_STOCKS\localDataSet\ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Forms\TBl_STOCKS\localDataSet\ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.xss">
+      <DependentUpon>ds_sp_TBL_STOCK_netStockInhand_lastQTYBalnaceForSingleProduct.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\DataSet_AccountsSummary_ByParentAccount.xsc">
+      <DependentUpon>DataSet_AccountsSummary_ByParentAccount.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\DataSet_AccountsSummary_ByParentAccount.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_AccountsSummary_ByParentAccount.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\AccountSummary_ByParentAccount\DataSet_AccountsSummary_ByParentAccount.xss">
+      <DependentUpon>DataSet_AccountsSummary_ByParentAccount.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\DataSet_AuditTrial.xsc">
+      <DependentUpon>DataSet_AuditTrial.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\DataSet_AuditTrial.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_AuditTrial.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\AuditTrial\DataSet_AuditTrial.xss">
+      <DependentUpon>DataSet_AuditTrial.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.xsc">
+      <DependentUpon>DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\LastSales_byVehicleNumber\DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.xss">
+      <DependentUpon>DataSet_sp_TBL_SALES_AND_RETURN_MAIN_by_vihicleNumber_selection.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\DataSet_Item_Stock_Summary.xsc">
+      <DependentUpon>DataSet_Item_Stock_Summary.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\DataSet_Item_Stock_Summary.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Item_Stock_Summary.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Stock_Summary\DataSet_Item_Stock_Summary.xss">
+      <DependentUpon>DataSet_Item_Stock_Summary.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\DataSet_Item_Transaction.xsc">
+      <DependentUpon>DataSet_Item_Transaction.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\DataSet_Item_Transaction.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Item_Transaction.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Item_Transaction_Report\DataSet_Item_Transaction.xss">
+      <DependentUpon>DataSet_Item_Transaction.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\DataSet_Sales.xsc">
+      <DependentUpon>DataSet_Sales.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\DataSet_Sales.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Sales.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales\DataSet_Sales.xss">
+      <DependentUpon>DataSet_Sales.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet1_VCH.xsc">
+      <DependentUpon>DataSet1_VCH.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet1_VCH.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1_VCH.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet1_VCH.xss">
+      <DependentUpon>DataSet1_VCH.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet_SaleInvoice_DM.xsc">
+      <DependentUpon>DataSet_SaleInvoice_DM.xsd</DependentUpon>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet_SaleInvoice_DM.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_SaleInvoice_DM.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="IMS_PRESENTATION_LAYER\Reports\Sales\SaleInvoice\DataSet_SaleInvoice_DM.xss">
+      <DependentUpon>DataSet_SaleInvoice_DM.xsd</DependentUpon>
+    </None>
+    <None Include="PRESENTATION_LAYER_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{272264C9-2FF0-4A81-AFB1-5676D7B1C10D}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{8A834D50-A618-4DD4-A302-824789D16AA9}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATASET\DATASET.csproj">
+      <Project>{1ABD5925-B2BC-4551-B1A7-7FFD14B17EFB}</Project>
+      <Name>DATASET</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GEN\GEN.csproj">
+      <Project>{97428DC3-55D3-47ED-ACB1-7CBEC67F0316}</Project>
+      <Name>GEN</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Flatastic-4-Add-item.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-5-Catalog.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_COA.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icn_COA.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aeon-credit-card-payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ACC_PRESENTATION_LAYER\NewFolder1\" />
+    <Folder Include="IMS_PRESENTATION_LAYER\Lists\TBL_STOCKS\Sales_Purchase_Ledger\" />
+    <Folder Include="IMS_PRESENTATION_LAYER\NewFolder1\" />
+    <Folder Include="IMS_PRESENTATION_LAYER\Reports\Copy of NewFolder1\" />
+    <Folder Include="IMS_PRESENTATION_LAYER\Reports\TBL_STOCKS\" />
+    <Folder Include="Reports\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

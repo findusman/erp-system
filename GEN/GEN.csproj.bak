@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{97428DC3-55D3-47ED-ACB1-7CBEC67F0316}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GEN</RootNamespace>
+    <AssemblyName>GEN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACC_GEN\Generics\cls_ACCGlobalClass.cs" />
+    <Compile Include="ACC_GEN\Generics\cls_DefaultCOA.cs" />
+    <Compile Include="ACC_GEN\Generics\cls_DefaultCOAKeys.cs" />
+    <Compile Include="ACC_GEN\Generics\cls_GACCFunctions.cs" />
+    <Compile Include="ACC_GEN\Generics\cls_GInitiateACC.cs" />
+    <Compile Include="ACC_GEN\Generics\cls_GrifFunctions.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Appearance\cls_Appearance.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_CustomeForm.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_generic_change_to_words.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_GENGlobalClass.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_KeysWithValue.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_MessageBox.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_Referesh.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_GENGlobalDataTables.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\cls_StaticObjects.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\DataTables\cls_NativDataSet.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\DataTables\cls_StaticTables.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Date_Time\cls_DateTime.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Form\Gen_Form.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Grid\cls_GridAppearance.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Grid\cls_GridFunctions.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Grid\Gen_GridView.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Images\cls_Images.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Paths\cls_Paths.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Report\cls_Report.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\Strings\cls_String.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\UserRIghts\cls_RightsKeys.cs" />
+    <Compile Include="GEN_GEN\GenericClasses\UserRIghts\cls_UserRights.cs" />
+    <Compile Include="GEN_GEN\Look\Export_data.cs" />
+    <Compile Include="GEN_GEN\Look\Export_data.Designer.cs">
+      <DependentUpon>Export_data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GEN_GEN\Look\frlLOOKUP.cs" />
+    <Compile Include="GEN_GEN\Look\frlLOOKUP.designer.cs">
+      <DependentUpon>frlLOOKUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMS_GEN\Forms\TBL_STOCKS\TBL_STOCKS_P.cs" />
+    <Compile Include="IMS_GEN\Generics\cls_IMSGlobalClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="GEN_GEN\Look\Export_data.resx">
+      <DependentUpon>Export_data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GEN_GEN\Look\frlLOOKUP.resx">
+      <DependentUpon>frlLOOKUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

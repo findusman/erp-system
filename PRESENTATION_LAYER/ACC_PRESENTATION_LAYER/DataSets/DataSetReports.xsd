@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetReports" targetNamespace="http://tempuri.org/DataSetReports.xsd" xmlns:mstns="http://tempuri.org/DataSetReports.xsd" xmlns="http://tempuri.org/DataSetReports.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetReports" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetReports" msprop:Generator_UserDSName="DataSetReports">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DtStock" msprop:Generator_TableClassName="DtStockDataTable" msprop:Generator_TableVarName="tableDtStock" msprop:Generator_RowChangedName="DtStockRowChanged" msprop:Generator_TablePropName="DtStock" msprop:Generator_RowDeletingName="DtStockRowDeleting" msprop:Generator_RowChangingName="DtStockRowChanging" msprop:Generator_RowEvHandlerName="DtStockRowChangeEventHandler" msprop:Generator_RowDeletedName="DtStockRowDeleted" msprop:Generator_RowClassName="DtStockRow" msprop:Generator_UserTableName="DtStock" msprop:Generator_RowEvArgName="DtStockRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="S_x002F_R" msprop:Generator_ColumnVarNameInTable="_columnS_R" msprop:Generator_ColumnPropNameInRow="_S_R" msprop:Generator_ColumnPropNameInTable="_S_RColumn" msprop:Generator_UserColumnName="S/R" type="xs:string" minOccurs="0" />
+              <xs:element name="Products" msprop:Generator_ColumnVarNameInTable="columnProducts" msprop:Generator_ColumnPropNameInRow="Products" msprop:Generator_ColumnPropNameInTable="ProductsColumn" msprop:Generator_UserColumnName="Products" type="xs:string" minOccurs="0" />
+              <xs:element name="Weight" msprop:Generator_ColumnVarNameInTable="columnWeight" msprop:Generator_ColumnPropNameInRow="Weight" msprop:Generator_ColumnPropNameInTable="WeightColumn" msprop:Generator_UserColumnName="Weight" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_x0020_Recieved" msprop:Generator_ColumnVarNameInTable="columnTotal_Recieved" msprop:Generator_ColumnPropNameInRow="Total_Recieved" msprop:Generator_ColumnPropNameInTable="Total_RecievedColumn" msprop:Generator_UserColumnName="Total Recieved" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_x0020_Issued" msprop:Generator_ColumnVarNameInTable="columnTotal_Issued" msprop:Generator_ColumnPropNameInRow="Total_Issued" msprop:Generator_ColumnPropNameInTable="Total_IssuedColumn" msprop:Generator_UserColumnName="Total Issued" type="xs:string" minOccurs="0" />
+              <xs:element name="Stock_x0020_In_x0020_Hand" msprop:Generator_ColumnVarNameInTable="columnStock_In_Hand" msprop:Generator_ColumnPropNameInRow="Stock_In_Hand" msprop:Generator_ColumnPropNameInTable="Stock_In_HandColumn" msprop:Generator_UserColumnName="Stock In Hand" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DTInvoice" msprop:Generator_TableClassName="DTInvoiceDataTable" msprop:Generator_TableVarName="tableDTInvoice" msprop:Generator_RowChangedName="DTInvoiceRowChanged" msprop:Generator_TablePropName="DTInvoice" msprop:Generator_RowDeletingName="DTInvoiceRowDeleting" msprop:Generator_RowChangingName="DTInvoiceRowChanging" msprop:Generator_RowEvHandlerName="DTInvoiceRowChangeEventHandler" msprop:Generator_RowDeletedName="DTInvoiceRowDeleted" msprop:Generator_RowClassName="DTInvoiceRow" msprop:Generator_UserTableName="DTInvoice" msprop:Generator_RowEvArgName="DTInvoiceRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Product" msprop:Generator_ColumnVarNameInTable="columnProduct" msprop:Generator_ColumnPropNameInRow="Product" msprop:Generator_ColumnPropNameInTable="ProductColumn" msprop:Generator_UserColumnName="Product" type="xs:string" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_UserColumnName="Price" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" msprop:Generator_UserColumnName="Quantity" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

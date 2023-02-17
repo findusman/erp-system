@@ -1,0 +1,417 @@
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+G:\Continue Projects\C#\Windows\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\My Develpoment WorK\New ERP\Usman\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\From 25 June 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\ERP\1 - from 1 july 2014\ERP\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\from 7 july 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\Till 8 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\Till 19 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Latest ERP\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Latest ERP\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Latest ERP\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Latest ERP\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\Till 25 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\Running\ERP\3 - from 28 July 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\3 - from Usman 04 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Projects 786\5 - From Asim 05 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\Completed Projects\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Projects 786\6 - From Asim 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+E:\office project\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Asim\ERP\7 - From Iftikhar 09 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Asim\ERP\9 - From Asim 13 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Asim\ERP\9 - From Asim 20 August 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\Running\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Asim\ERP\8 - From Asim 06 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Asim\ERP\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Work\My Develpoment WorK\9 - from Asim 09 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+F:\Continue Projects\C#\Windows\Running\ERP\11 - from Asim 20 September 2014\ERP\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Usman New Assigments\touch point of sale\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+F:\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+F:\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+F:\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+F:\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+D:\Work\Aeon work\Usman's Data\Usman's Data\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\DAL\bin\Debug\DAL.dll
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\DAL\bin\Debug\DAL.pdb
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\DAL\obj\Debug\DAL.dll
+C:\Working Data\Project\Aron Point of sale latest\PRESENTATION_LAYER\DAL\obj\Debug\DAL.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\DAL\bin\Debug\DAL.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\DAL\bin\Debug\DAL.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\DAL\obj\Debug\DAL.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\AdvCodeWizard\Testing Project\Source Code\DAL\obj\Debug\DAL.pdb
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\DAL\bin\Debug\DAL.dll
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\DAL\bin\Debug\DAL.pdb
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\DAL\obj\Debug\DAL.dll
+C:\Working Data\Project\DM LUB LATEST 8-26-2015\Aater\Testing Project\Source Code\DAL\obj\Debug\DAL.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\DAL\bin\Debug\DAL.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\DAL\bin\Debug\DAL.pdb
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\DAL\obj\Debug\DAL.dll
+C:\Data\Development\Continue Projects\C#\Windows\Running\DM Lubricants Advance IMS\DM Lubricants 1 Sep 2015 Till\Testing Project\Source Code\DAL\obj\Debug\DAL.pdb
+C:\Source Code\DAL\bin\Debug\DAL.dll
+C:\Source Code\DAL\bin\Debug\DAL.pdb
+C:\Source Code\DAL\obj\Debug\DAL.dll
+C:\Source Code\DAL\obj\Debug\DAL.pdb
+C:\Source Code\DAL\bin\Debug\GEN.dll
+C:\Source Code\DAL\bin\Debug\GEN.pdb
+C:\Source Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\NewdataFrom10July\C\Source Code\DAL\bin\Debug\DAL.dll
+D:\NewdataFrom10July\C\Source Code\DAL\bin\Debug\DAL.pdb
+D:\NewdataFrom10July\C\Source Code\DAL\bin\Debug\GEN.dll
+D:\NewdataFrom10July\C\Source Code\DAL\bin\Debug\GEN.pdb
+D:\NewdataFrom10July\C\Source Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\NewdataFrom10July\C\Source Code\DAL\obj\Debug\DAL.dll
+D:\NewdataFrom10July\C\Source Code\DAL\obj\Debug\DAL.pdb
+C:\Development\C#\ERP\DM\DM\DAL\bin\Debug\DAL.dll
+C:\Development\C#\ERP\DM\DM\DAL\bin\Debug\DAL.pdb
+C:\Development\C#\ERP\DM\DM\DAL\bin\Debug\GEN.dll
+C:\Development\C#\ERP\DM\DM\DAL\bin\Debug\GEN.pdb
+C:\Development\C#\ERP\DM\DM\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Development\C#\ERP\DM\DM\DAL\obj\Debug\DAL.dll
+C:\Development\C#\ERP\DM\DM\DAL\obj\Debug\DAL.pdb
+D:\Development\C#\DM\DM\DAL\bin\Debug\DAL.dll
+D:\Development\C#\DM\DM\DAL\bin\Debug\DAL.pdb
+D:\Development\C#\DM\DM\DAL\bin\Debug\GEN.dll
+D:\Development\C#\DM\DM\DAL\bin\Debug\GEN.pdb
+D:\Development\C#\DM\DM\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Development\C#\DM\DM\DAL\obj\Debug\DAL.dll
+D:\Development\C#\DM\DM\DAL\obj\Debug\DAL.pdb
+E:\Development\C#\DM\DM\DAL\bin\Debug\DAL.dll
+E:\Development\C#\DM\DM\DAL\bin\Debug\DAL.pdb
+E:\Development\C#\DM\DM\DAL\bin\Debug\GEN.dll
+E:\Development\C#\DM\DM\DAL\bin\Debug\GEN.pdb
+E:\Development\C#\DM\DM\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Development\C#\DM\DM\DAL\obj\Debug\DAL.dll
+E:\Development\C#\DM\DM\DAL\obj\Debug\DAL.pdb
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\bin\Debug\DAL.dll
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\bin\Debug\DAL.pdb
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\bin\Debug\GEN.dll
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\bin\Debug\GEN.pdb
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\obj\Debug\DAL.dll
+E:\Development\C#\DM\DM Copy from 29 May 2020\DM\DAL\obj\Debug\DAL.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.dll
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.dll
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.dll
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.pdb
+E:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.dll
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.pdb
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.dll
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.pdb
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.dll
+D:\Development\C#\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.pdb
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.dll
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.pdb
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.dll
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.pdb
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.dll
+D:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.pdb
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DAL.pdb
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraReports.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Data.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\GEN.pdb
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraReports.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Data.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.dll
+E:\Development\C# Desktop Devlopment\DM\DM Current from 29 May 2020\DM\DAL\obj\Debug\DAL.pdb
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DAL.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DAL.pdb
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\GEN.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraReports.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Data.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\GEN.pdb
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraReports.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Data.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\obj\Debug\DAL.dll
+D:\git\Usman\dm-lubricants-erp\DM from Augut 2022\DM\DAL\obj\Debug\DAL.pdb

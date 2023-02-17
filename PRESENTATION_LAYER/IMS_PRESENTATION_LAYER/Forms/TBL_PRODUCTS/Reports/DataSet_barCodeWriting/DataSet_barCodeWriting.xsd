@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_barCodeWriting" targetNamespace="http://tempuri.org/DataSet_barCodeWriting.xsd" xmlns:mstns="http://tempuri.org/DataSet_barCodeWriting.xsd" xmlns="http://tempuri.org/DataSet_barCodeWriting.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DB_dmAdvnaceConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DB_dmAdvnaceConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.PRESENTATION_LAYER.Properties.Settings.GlobalReference.Default.DB_dmAdvnaceConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_TBL_PRODUCTS_barcodeWritingTableAdapter" GeneratorDataComponentClassName="V_TBL_PRODUCTS_barcodeWritingTableAdapter" Name="V_TBL_PRODUCTS_barcodeWriting" UserDataComponentName="V_TBL_PRODUCTS_barcodeWritingTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DB_dmAdvnaceConnectionString (Settings)" DbObjectName="DB_dmAdvnace.dbo.V_TBL_PRODUCTS_barcodeWriting" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT PRODUCT_COA, PRODUCT_name, PRODUCT_ID FROM dbo.V_TBL_PRODUCTS_barcodeWriting</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PRODUCT_COA" DataSetColumn="PRODUCT_COA" />
+              <Mapping SourceColumn="PRODUCT_name" DataSetColumn="PRODUCT_name" />
+              <Mapping SourceColumn="PRODUCT_ID" DataSetColumn="PRODUCT_ID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_barCodeWriting" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet_barCodeWriting" msprop:Generator_UserDSName="DataSet_barCodeWriting">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_TBL_PRODUCTS_barcodeWriting" msprop:Generator_TableClassName="V_TBL_PRODUCTS_barcodeWritingDataTable" msprop:Generator_TableVarName="tableV_TBL_PRODUCTS_barcodeWriting" msprop:Generator_RowChangedName="V_TBL_PRODUCTS_barcodeWritingRowChanged" msprop:Generator_TablePropName="V_TBL_PRODUCTS_barcodeWriting" msprop:Generator_RowDeletingName="V_TBL_PRODUCTS_barcodeWritingRowDeleting" msprop:Generator_RowChangingName="V_TBL_PRODUCTS_barcodeWritingRowChanging" msprop:Generator_RowEvHandlerName="V_TBL_PRODUCTS_barcodeWritingRowChangeEventHandler" msprop:Generator_RowDeletedName="V_TBL_PRODUCTS_barcodeWritingRowDeleted" msprop:Generator_RowClassName="V_TBL_PRODUCTS_barcodeWritingRow" msprop:Generator_UserTableName="V_TBL_PRODUCTS_barcodeWriting" msprop:Generator_RowEvArgName="V_TBL_PRODUCTS_barcodeWritingRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PRODUCT_COA" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_COA" msprop:Generator_ColumnPropNameInRow="PRODUCT_COA" msprop:Generator_ColumnPropNameInTable="PRODUCT_COAColumn" msprop:Generator_UserColumnName="PRODUCT_COA" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PRODUCT_name" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_name" msprop:Generator_ColumnPropNameInRow="PRODUCT_name" msprop:Generator_ColumnPropNameInTable="PRODUCT_nameColumn" msprop:Generator_UserColumnName="PRODUCT_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PRODUCT_ID" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_ID" msprop:Generator_ColumnPropNameInRow="PRODUCT_ID" msprop:Generator_ColumnPropNameInTable="PRODUCT_IDColumn" msprop:Generator_UserColumnName="PRODUCT_ID">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

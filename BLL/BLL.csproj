@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{272264C9-2FF0-4A81-AFB1-5676D7B1C10D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACC_BLL\cls_GetCode_Againt_Key.cs" />
+    <Compile Include="ACC_BLL\cls_GET_MAX.cs" />
+    <Compile Include="ACC_BLL\TBL_ACC_PLAN\cls_CTBL_ACC_PLAN.cs" />
+    <Compile Include="ACC_BLL\TBL_ACC_PLAN\cls_CTBL_ACC_PLAN_DEF.cs" />
+    <Compile Include="ACC_BLL\TBL_ACC_PLAN\cls_TBL_ACC_PLAN.cs" />
+    <Compile Include="ACC_BLL\TBL_ACC_PLAN\cls_TBL_ACC_PLAN_DEF.cs" />
+    <Compile Include="ACC_BLL\TBL_COA\cls_TBL_COA.cs" />
+    <Compile Include="ACC_BLL\TBL_FINANCIAL_YEAR\cls_CTBL_FINANCIAL_YEAR.cs" />
+    <Compile Include="ACC_BLL\TBL_FINANCIAL_YEAR\cls_TBL_FINANCIAL_YEAR.cs" />
+    <Compile Include="ACC_BLL\TBL_OPENING_BALANCE\cls_CTBL_OPENING_BALANCE.cs" />
+    <Compile Include="ACC_BLL\TBL_OPENING_BALANCE\cls_TBL_OPENING_BALANCE.cs" />
+    <Compile Include="ACC_BLL\TBL_TYPE_PLAN\cls_TBL_TYPE_PLAN_MAIN.cs" />
+    <Compile Include="ACC_BLL\TBL_TYPE_PLAN\cls_CTBL_TYPE_PLAN_DEF.cs" />
+    <Compile Include="ACC_BLL\TBL_TYPE_PLAN\cls_CTBL_TYPE_PLAN_MAIN.cs" />
+    <Compile Include="ACC_BLL\TBL_VCH_MAIN\cls_CTBL_VCH_MAIN.cs" />
+    <Compile Include="ACC_BLL\TBL_VCH_MAIN\cls_TBL_VCH_MAIN.cs" />
+    <Compile Include="GEN_BLL\cls_GET_MAX.cs" />
+    <Compile Include="GEN_BLL\cls_TBL_COA.cs" />
+    <Compile Include="GEN_BLL\cls_TBL_DEFAULT_ACCT.cs" />
+    <Compile Include="GEN_BLL\cls_TBL_IMG.cs" />
+    <Compile Include="GEN_BLL\cls_TBL_KEY.cs" />
+    <Compile Include="GEN_BLL\TBL_BRC\cls_CTBL_BRC.cs" />
+    <Compile Include="GEN_BLL\TBL_BRC\cls_TBL_BRC.cs" />
+    <Compile Include="GEN_BLL\TBL_CMP\cls_CTBL_CMP.cs" />
+    <Compile Include="GEN_BLL\TBL_CMP\cls_TBL_CMP.cs" />
+    <Compile Include="GEN_BLL\TBL_KEY\cls_CTBL_KEY.cs" />
+    <Compile Include="GEN_BLL\TBL_KEY\cls_TBL_KEY.cs" />
+    <Compile Include="GEN_BLL\TBL_LOG\cls_CTBL_LOG.cs" />
+    <Compile Include="GEN_BLL\TBL_LOG\cls_TBL_LOG.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS\cls_CTBL_RIGHTS_DEF.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS\cls_RIGHTS_ALLOC.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS\cls_TBL_RIGHTS_MAIN.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS_MAIN\cls_CTBL_RIGHTS_MAIN.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS_MAIN\cls_TBL_RIGHTS_MAIN.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS_TEMPLATE\cls_CTBL_RIGHTS_TEMPLATE.cs" />
+    <Compile Include="GEN_BLL\TBL_RIGHTS_TEMPLATE\cls_TBL_RIGHTS_TEMPLATE.cs" />
+    <Compile Include="GEN_BLL\TBL_USERS\cls_CTBL_USERS.cs" />
+    <Compile Include="GEN_BLL\TBL_USERS\cls_TBL_USERS.cs" />
+    <Compile Include="IMS_BLL\cls_GET_MAX.cs" />
+    <Compile Include="IMS_BLL\cls_TBL_IA.cs" />
+    <Compile Include="GEN_BLL\TBL_KEYS_TYPES\cls_CTBL_KEYS_TYPES.cs" />
+    <Compile Include="GEN_BLL\TBL_KEYS_TYPES\cls_TBL_KEYS_TYPES.cs" />
+    <Compile Include="IMS_BLL\TBL_RASHID\cls_CTBL_RASHID.cs" />
+    <Compile Include="IMS_BLL\TBL_RASHID\cls_TBL_RASHID.cs" />
+    <Compile Include="IMS_BLL\TBL_SALES_AND_RETURN_MAIN\cls_CTBL_SALES_AND_RETURN_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_SALES_AND_RETURN_MAIN\cls_TBL_SALES_AND_RETURN_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_CUSTOMERS\cls_CTBL_CUSTOMERS.cs" />
+    <Compile Include="IMS_BLL\TBL_CUSTOMERS\cls_TBL_CUSTOMERS.cs" />
+    <Compile Include="IMS_BLL\TBL_DEPARTMENTS\cls_CTBL_DEPARTMENTS.cs" />
+    <Compile Include="IMS_BLL\TBL_DEPARTMENTS\cls_TBL_DEPARTMENTS.cs" />
+    <Compile Include="IMS_BLL\TBL_PACKINGS_DEF\cls_CTBL_PACKINGS_DEF.cs" />
+    <Compile Include="IMS_BLL\TBL_PACKINGS_DEF\cls_TBL_PACKINGS_DEF.cs" />
+    <Compile Include="IMS_BLL\TBL_PACKINGS_MAIN\cls_CTBL_PACKINGS_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_PACKINGS_MAIN\cls_TBL_PACKINGS_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_PRODUCTS\cls_CTBL_PRODUCTS.cs" />
+    <Compile Include="IMS_BLL\TBL_PRODUCTS\cls_TBL_PRODUCTS.cs" />
+    <Compile Include="IMS_BLL\TBL_PURCHASE_AND_RETURN_MAIN\cls_CTBL_PURCHASE_AND_RETURN_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_PURCHASE_AND_RETURN_MAIN\cls_TBL_PURCHASE_AND_RETURN_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_STOCKS\cls_CTBL_STOCKS.cs" />
+    <Compile Include="IMS_BLL\TBL_STOCKS\cls_TBL_STOCKS.cs" />
+    <Compile Include="IMS_BLL\TBL_SUPPLIERS\cls_CTBL_SUPPLIERS.cs" />
+    <Compile Include="IMS_BLL\TBL_SUPPLIERS\cls_TBL_SUPPLIERS.cs" />
+    <Compile Include="IMS_BLL\TBL_Supplier_TMP\cls_CTBL_SUPPLIERS_TMP.cs" />
+    <Compile Include="IMS_BLL\TBL_Supplier_TMP\cls_TBL_SUPPLIERS_TMP.cs" />
+    <Compile Include="IMS_BLL\TBL_TEMP_MAIN\cls_CTBL_TEMP_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_TEMP_MAIN\cls_TBL_TEMP_MAIN.cs" />
+    <Compile Include="IMS_BLL\TBL_UNITS\cls_CTBL_UNITS.cs" />
+    <Compile Include="IMS_BLL\TBL_UNITS\cls_TBL_UNITS.cs" />
+    <Compile Include="IMS_BLL\TBL_VEHICLE_MAKERS\cls_CTBL_VEHICLE_MAKERS.cs" />
+    <Compile Include="IMS_BLL\TBL_VEHICLE_MAKERS\cls_TBL_VEHICLE_MAKERS.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{8A834D50-A618-4DD4-A302-824789D16AA9}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GEN\GEN.csproj">
+      <Project>{97428DC3-55D3-47ED-ACB1-7CBEC67F0316}</Project>
+      <Name>GEN</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="IMS_BLL\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

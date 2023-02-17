@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PRESENTATION_LAYER.ACC_PRESENTATION_LAYER.Lists.DM.BalanceSheet.frm_balanceSheet_Report.frm_balanceSheet_Report" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A0ERWBmBEKQASIIhgPGPAgCiEgAOPAGMAEAABBwEDA4=</HashCode>
+      <FileName>ACC_PRESENTATION_LAYER\Lists\DM\BalanceSheet\frm_balanceSheet_Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
